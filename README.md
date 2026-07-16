@@ -36,6 +36,12 @@ We value truth over hype. Our development roadmap is gated by physical validatio
 
 ## 🔗 Links
 - **Official Landing Page:** [specforgeai.netlify.app](https://specforgeai.netlify.app/)
+
+- ##  License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+
 - **Founder:** [Sarah Sair](https://www.linkedin.com/in/sarahsair/) (Generative AI & LLM Engineer)
 
 ---
