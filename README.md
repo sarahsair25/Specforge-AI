@@ -42,7 +42,7 @@ We value truth over hype. Our development roadmap is gated by physical validatio
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 
-- **Founder:** [Sarah Sair](https://www.linkedin.com/in/sarahsair/) (Generative AI & Data Engineer)
+- **Founder:** [Sarah Sair](https://www.linkedin.com/in/sarahsair/) (Generative AI & LLM Engineer | Systems Architect)
 
 - **[Portfolio](https://sarah-sair-ai-7044ftv.gamma.site/) · [LinkedIn](https://linkedin.com/in/sarahsair)
 
