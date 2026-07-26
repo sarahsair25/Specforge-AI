@@ -44,7 +44,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 - **Founder:** [Sarah Sair](https://www.linkedin.com/in/sarahsair/) (Generative AI & LLM Engineer | Systems Architect)
 
-- **[Portfolio](https://sarah-sair-ai-7044ftv.gamma.site/) · [LinkedIn](https://linkedin.com/in/sarahsair)
+- ** [LinkedIn](https://linkedin.com/in/sarahsair)
 
 ---
 *© 2026 SpecForge AI. Developed by Sarah Sair.*
