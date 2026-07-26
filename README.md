@@ -9,14 +9,14 @@ By leveraging a proprietary **Vision-to-Tolerance (V2T)** pipeline, SpecForge AI
 
 ---
 
-## 🚀 Project Status
+##  Project Status
 - **Phase:** Alpha Development (Stealth)
 - **Competition:** [CoCreate Pitch 2026](https://alibabacocreate.com/pitch) - Los Angeles Finals Candidate (0-to-1 Startup Track).
 - **Milestone:** Currently validating the V2T pipeline accuracy through physical CNC-machined bracket production cycles.
 
 ---
 
-## 🛠️ The V2T Pipeline (Vision-to-Tolerance)
+##  The V2T Pipeline (Vision-to-Tolerance)
 SpecForge AI is built on a multi-agent orchestration layer designed for "Production-Ready" AI:
 
 1. **Vision Agent:** Extracts geometric and dimensional intent from raw conceptual inputs.
@@ -26,7 +26,7 @@ SpecForge AI is built on a multi-agent orchestration layer designed for "Product
 
 ---
 
-## 📈 Roadmap to Physical Truth
+## Roadmap to Physical Truth
 We value truth over hype. Our development roadmap is gated by physical validation:
 - [x] **Q2 2026:** System Architecture & V2T Alpha Engine.
 - [ ] **Q3 2026 (LA Finals):** Digital-to-Physical validation of simple CNC brackets.
@@ -43,8 +43,12 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 
 - **Founder:** [Sarah Sair](https://www.linkedin.com/in/sarahsair/) (Generative AI & LLM Engineer | Systems Architect)
+- 
+- 💼 [LinkedIn](https://linkedin.com/in/sarahsair)
+- 🌍 [Portfolio](https://sarah-sair-ai-7044ftv.gamma.site/)
+- 📧 [Email](mailto:sarahsair@gmail.com.com)    
+  
 
-- [LinkedIn](https://linkedin.com/in/sarahsair)
-
+ 
 ---
 *© 2026 SpecForge AI. Developed by Sarah Sair.*
